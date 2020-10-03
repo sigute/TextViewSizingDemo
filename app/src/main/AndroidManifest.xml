@@ -18,6 +18,27 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".examples.SpVsDpActivity"
+            android:label="@string/title_sp_vs_dp"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".examples.EllipsizingActivity"
+            android:label="@string/title_ellipsizing"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".examples.CutOffActivity"
+            android:label="@string/title_cut_off"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".examples.AutosizingActivity"
+            android:label="@string/title_autosizing"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".examples.OverlayActivity"
+            android:label="@string/title_overlay"
+            android:parentActivityName=".MainActivity" />
     </application>
 
 </manifest>

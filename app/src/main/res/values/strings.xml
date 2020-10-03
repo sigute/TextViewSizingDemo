@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">TextViewSizingDemo</string>
+    <string name="app_name">Text View Sizing Demo</string>
+    <string name="title_sp_vs_dp">SP vs DP</string>
+    <string name="title_ellipsizing">Ellipsizing</string>
+    <string name="title_cut_off">Cut off</string>
+    <string name="title_overlay">Overlay</string>
+    <string name="title_autosizing">Autosizing</string>
 </resources>
