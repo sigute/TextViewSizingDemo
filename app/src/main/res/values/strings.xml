@@ -5,4 +5,5 @@
     <string name="title_cut_off">Cut off</string>
     <string name="title_overlay">Overlay</string>
     <string name="title_autosizing">Autosizing</string>
+    <string name="long_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis hendrerit mauris ante, non maximus libero pretium ut.</string>
 </resources>
